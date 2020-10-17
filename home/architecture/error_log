@@ -1,0 +1,5 @@
+[12-May-2020 10:05:13 Asia/Kolkata] PHP Notice:  Undefined index: user in /home/reinhuci/public_html/marble/home/include/config.php on line 14
+[12-May-2020 15:06:15 Asia/Kolkata] PHP Notice:  Undefined index: user in /home/reinhuci/public_html/marble/home/include/config.php on line 14
+[12-May-2020 15:09:12 Asia/Kolkata] PHP Notice:  Undefined index: user in /home/reinhuci/public_html/marble/home/include/config.php on line 14
+[12-May-2020 20:47:55 Asia/Kolkata] PHP Notice:  Undefined index: user in /home/reinhuci/public_html/marble/home/include/config.php on line 14
+[12-May-2020 20:47:55 Asia/Kolkata] PHP Notice:  Undefined variable: headers in /home/reinhuci/public_html/marble/include/functions.php on line 236

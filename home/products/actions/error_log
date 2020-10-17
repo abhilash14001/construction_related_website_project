@@ -1,0 +1,5 @@
+[18-May-2020 09:09:23 Asia/Kolkata] PHP Notice:  Undefined index: user in /home/reinhuci/public_html/marble/home/include/config.php on line 14
+[18-May-2020 09:09:41 Asia/Kolkata] PHP Notice:  Undefined index: qty in /home/reinhuci/public_html/marble/home/products/actions/purchase.php on line 12
+[18-May-2020 09:09:41 Asia/Kolkata] PHP Notice:  Undefined index: totalprice in /home/reinhuci/public_html/marble/home/products/actions/purchase.php on line 13
+[18-May-2020 09:11:53 Asia/Kolkata] PHP Notice:  Undefined index: qty in /home/reinhuci/public_html/marble/home/products/actions/purchase.php on line 12
+[18-May-2020 09:11:53 Asia/Kolkata] PHP Notice:  Undefined index: totalprice in /home/reinhuci/public_html/marble/home/products/actions/purchase.php on line 13

@@ -1,0 +1,179 @@
+/*------------------------------------------------------------------
+
+Project: Interior Design & Architecture Template
+
+-------------------------------------------------------------------*/
+
+
+@media (min-width: 1200px){
+
+}
+
+
+/*Notebooks and Small Laptops*/
+@media (min-width: 1025px){
+/* .about-bottom-content .section-padding {
+  padding: 70px 0;
+} */
+}
+
+/*iPad Landscape Mode and Large Tablets */
+@media (max-width: 1024px){
+
+}
+
+/*Small Desktop and Very Small Notebook */
+@media (max-width: 992px){
+
+}
+
+/*Medium Tablets */
+@media (max-width: 900px){
+
+    .navbar-nav > li > a {
+        letter-spacing: 1px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+	.about-bottom-image {
+	  display: none;
+	}
+	.about-bottom-content {
+	  padding-top: 20px;
+	}
+	#owl-clients .client {
+	  margin: 0 50px;
+	}
+	.single-service-tab a p {
+	  font-size: 14px;
+	}
+	.image-one {
+	  margin-bottom: 30px;
+	}
+	.progress-bars {
+	  margin-top: 45px;
+	}
+	.news-detail {
+	  margin-bottom: 20px;
+	}
+	.image-one > img {
+	  width: 100%;
+	}
+}
+
+
+/*iPad Portrait Mode, iPad Mini and Small Tablets */
+@media (max-width: 768px){
+
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+        max-height: 100%;
+    }
+    .single-service-tab a p {
+	  font-size: 14px;
+	}
+	#owl-clients .client {
+	  margin: 0 50px;
+	}
+	.progress-bars {
+	  margin-top: 45px;
+	}
+	.single-service-tab {
+	  margin-bottom: 50px;
+	}
+	.m-bottom-80.service-menu {
+	  margin-bottom: 20px;
+	}
+	.image-one img {
+	  width: 100%;
+	}
+}
+
+/*iPad Portrait Mode, iPad Mini and Small Tablets */
+@media (max-width: 767px) {
+
+    .navbar-default .navbar-collapse {
+        margin-top: 10px;
+        border-color: #eeeeee;
+        background: #fcfcfc;
+        text-align: center;
+    }
+    .slides-navigation {
+        display: none;
+    }
+    .left-border {
+        width: 15px;
+    }
+    .right-border {
+        width: 15px;
+    }
+    .bottom-border {
+        height: 25px;
+    }
+    .slides-pagination {
+        bottom: 4px;
+    } 
+    .news-detail {
+	  margin-bottom: 20px;
+	}
+	#slides .caption-wrapper {
+	  max-width: 430px;
+	}
+}
+
+/*Medium Smart Phones v2*/
+@media screen and (max-width: 600px){
+
+    .navbar-default {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+}
+
+
+/*iPhone Portrait Mode and Very Small Mobile Phones*/
+@media screen and (max-width: 320px) {
+  
+    #slides .caption-wrapper {
+        bottom: 20%;
+        max-width: 280px;
+    }
+    #slides .slide-caption {
+        padding: 10px 10px;
+    }
+    #slides .slide-caption h1 {
+        font-size: 24px;
+        letter-spacing: -1px;
+    }
+    #slides .slide-caption h6 {
+        font-size: 11px;
+    }
+    #cd-google-map .address {
+        display: none;
+    }
+    #owl-clients .client {
+	  margin: 0 30px;
+	}
+	#slides .caption-wrapper {
+	  max-width: 300px;
+	}
+
+}
+
+/*google nexus ish*/
+@media screen and (max-width: 480px) {
+	#owl-clients .client {
+	  margin: 0 30px;
+	}
+	.progress-bars {
+	  margin-top: 50px;
+	}
+	#slides .caption-wrapper {
+	  max-width: 350px;
+	  left: 2%;
+	}
+	.single-service-tab a p {
+	  font-size: 11px;
+	}
+}
+
